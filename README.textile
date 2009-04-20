@@ -1,7 +1,5 @@
 h2. Presentations
------
 A collection of my presentations.
 
 h2. Authors
------
 * Kent R. Spillner <kspillner@acm.org>

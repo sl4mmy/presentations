@@ -1,7 +1,5 @@
 h2. Git With It: Learning Git
------
 A gentle introduction to Git (http://git-scm.com/).
 
 h2. Authors
------
 * Kent R. Spillner <kspillner@acm.org>
