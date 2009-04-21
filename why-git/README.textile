@@ -1,0 +1,7 @@
+h2. Why Git
+
+A brief survey of the many reasons to use Git (http://git-scm.com/).
+
+h2. Authors
+
+* Kent R. Spillner <kspillner@acm.org>
